@@ -1,0 +1,21 @@
+
+
+
+
+
+.toastify-toast{
+  background:linear-gradient(135deg,rgba(6, 5, 5, 0.01),rgba(255,255,255,0));
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 20px rgba(255,255,255,0.18);
+  border: 1px solid ; 
+}
+
+
+.Toastify__toast-container {
+  margin-top:3px; 
+}
+
+.Toastify__toast-container--top-center {
+  top: -80px;
+}
